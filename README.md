@@ -1,4 +1,4 @@
-### Hi there 👋
+Following some unexpected developments and a general curiosity I began my journey into computer science by learning C++ back in secondary school, and a year later I found myself quitting for good. I swore to never touch programming in my life. Yet here I am now at it again... guess you can't beat curiosity out of a cat; and what doesn't kill it, makes it stronger.
 
 <!--
 **daniilgrbic/daniilgrbic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
